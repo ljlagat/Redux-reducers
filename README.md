@@ -12,6 +12,6 @@ The app will be designed in a clean and polished manner.
 
 
 The page is live at https://ljlagat.github.io/Redux-reducers/
-Project can be cloned from https://github.com/ljlagat/Redux-reducers
+Project can be cloned from https://github.com/ljlagat/Redux-reducers.git
 App can be accessed on Network:  http://192.168.8.51:3000
 Author: Lucy Lagat
